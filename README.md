@@ -26,7 +26,6 @@ Explain how to use your project, including examples, code snippets, or screensho
 
 ```bash
 python script.py
-# Additional instructions or command-line examples
 ```
 
 ## Data

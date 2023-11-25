@@ -16,7 +16,6 @@ Brief description or overview of the project. You can include what the project d
 Describe how to install and set up your project. Include prerequisites, dependencies, and step-by-step installation instructions if applicable.
 
 ```bash
-# Provide code examples for installation if needed
 git clone https://github.com/AbdulMohiz-01/GDC-Task01.git
 cd GDC-Task01/
 ```
@@ -26,7 +25,6 @@ cd GDC-Task01/
 Explain how to use your project, including examples, code snippets, or screenshots if applicable. Provide clear instructions for users to understand how they can interact with or benefit from your project.
 
 ```bash
-# Include examples of usage if applicable
 python script.py
 # Additional instructions or command-line examples
 ```
